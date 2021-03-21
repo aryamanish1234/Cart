@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "_id":"dress1",
+            "title":"Dress 1",
+            "image":"/image/d1.png",
+            "description": "jo bhi h 4",
+            "availabelSizes":["X","L", "XL", "XXL"],
+            "price": 1000
+        },
+        {
+            "_id":"dress2",
+            "title":"Dress 2",
+            "image":"/image/d2.png",
+            "description": "New Drass of the year",
+            "availabelSizes":["X","L","XL","XXL"],
+            "price": 500
+        },
+        {
+            "_id":"dress3",
+            "title":"Dress 3",
+            "image":"/image/d3.png",
+            "description":"cool Dress",
+            "availabelSizes":["X","L","XL","XXL"],
+            "price":700
+        },
+        {
+            "_id":"dress1",
+            "title":"Dress 1",
+            "image":"/image/d3.png",
+            "description": "jo bhi h 4",
+            "availabelSizes":["X","L", "XL", "XXL"],
+            "price": 2000
+        },
+        {
+            "_id":"dress1",
+            "title":"Dress 1",
+            "image":"/image/d1.png",
+            "description": "this is find all color that.",
+            "availabelSizes":["X","L", "XL", "XXL"],
+            "price": 1000
+        },
+        {
+            "_id":"dress1",
+            "title":"Dress 1",
+            "image":"/image/d2.png",
+            "description": "The dress yhoat are avaible.",
+            "availabelSizes":["X","L", "XL", "XXL"],
+            "price": 1000
+        }
+    ]
+}

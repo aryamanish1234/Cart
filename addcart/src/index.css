@@ -108,8 +108,18 @@ align-items: center;
   border: 0.1rem #808080 solid;
 }
 .button.primary {
-  background-color: #f0c040;
+  background-color: #1db3c7;
 }
 a{
   text-decoration: none;
+}
+.filter {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  margin: 1rem;
+  border-bottom: 0.1rem #c0c0c0 solid;
+}
+.filter div {
+  flex: 1;
 }

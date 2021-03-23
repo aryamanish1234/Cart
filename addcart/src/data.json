@@ -1,52 +1,52 @@
 {
     "products": [
-        {
-            "_id":"dress1",
-            "title":"Dress 1",
-            "image":"/image/d1.png",
-            "description": "jo bhi h 4",
-            "availabelSizes":["S","L", "M", "XXL"],
-            "price": 1000
-        },
-        {
-            "_id":"dress2",
-            "title":"Dress 2",
-            "image":"/image/d2.png",
-            "description": "New Drass of the year",
-            "availabelSizes":["S"],
-            "price": 500
-        },
-        {
-            "_id":"dress3",
-            "title":"Dress 3",
-            "image":"/image/d3.png",
-            "description":"cool Dress",
-            "availabelSizes":["X","L","XL","XXL"],
-            "price":700
-        },
-        {
-            "_id":"dress1",
-            "title":"Dress 1",
-            "image":"/image/d3.png",
-            "description": "jo bhi h 4",
-            "availabelSizes":["S","L", "M", "XXL"],
-            "price": 2000
-        },
-        {
-            "_id":"dress1",
-            "title":"Dress 1",
-            "image":"/image/d1.png",
-            "description": "this is find all color that.",
-            "availabelSizes":["S","L", "M", "XXL"],
-            "price": 1000
-        },
-        {
-            "_id":"dress1",
-            "title":"Dress 1",
-            "image":"/image/d2.png",
-            "description": "The dress yhoat are avaible.",
-            "availabelSizes":["S","L", "M", "XXL"],
-            "price": 1000
-        }
+      {
+        "_id": "dress1",
+        "image": "/image/d1.jpg",
+        "title": "Midi sundress with shirring detail",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to.",
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "price": 2500
+      },
+      {
+        "_id": "dress2",
+        "image": "/image/d2.jpg",
+        "title": "Midi sundress with ruched front",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. ",
+        "availableSizes": ["X", "M", "L"],
+        "price": 2000
+      },
+      {
+        "_id": "dress3",
+        "image": "/image/d3.jpg",
+        "title": "Midi dress in pink ditsy floral",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. ",
+        "availableSizes": ["X", "M", "L"],
+        "price": 900
+      },
+      {
+        "_id": "dress4",
+        "image": "/image/d4.jpg",
+        "title": "cami maxi dress in polka dot",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. ",
+        "availableSizes": ["XL"],
+        "price": 899
+      },
+      {
+        "_id": "dress5",
+        "image": "/image/d5.jpg",
+        "title": "Frill mini dress in yellow polka dot",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to.",
+        "availableSizes": ["X", "L", "XL"],
+        "price": 500
+      },
+      {
+        "_id": "dress6",
+        "image": "/image/d6.jpg",
+        "title": "Midi tea dress in blue and red spot",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. ",
+        "availableSizes": ["XL", "XXL"],
+        "price": 1000
+      }
     ]
-}
+  }
